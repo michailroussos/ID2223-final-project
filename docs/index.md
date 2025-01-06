@@ -1,18 +1,18 @@
 
 # Solana Price Prediction Dashboard
 
-![test](./test.png)
+![test](/test.png)
 
 
 ## Solana Price Predictions
 Here we can see the price predictions for Solana from our model.
-![Price_predictions](img/solana_predictions_plot.png)
+![Price_predictions](/img/solana_predictions_plot.png)
 
 
 
 ## Model Performance Monitoring
 Here we can see a comparison between our predictions and the actual values.
-![Hindcast](./../img/solana_predictions_plot.png)
+![Hindcast](img/solana_predictions_plot.png)
 
 
 
@@ -24,5 +24,5 @@ Here we have the correlation heatmap for the open values of Solana, Bitcoin and 
 
 ## Trend Analysis
 Here we have the trend analysis for the open values of Solana (actual and predictions), Bitcoin and Fear and Greed index.
-![Trend_analysis](../img/trend_analisis.png)
+![Trend_analysis](./img/trend_analisis.png)
 
