@@ -4,13 +4,13 @@
 
 ## Solana Price Predictions
 Here we can see the price predictions for Solana from our model.
-![Price_predictions](../img/solana_predictions_plot.png)
+![Price_predictions](../../img/solana_predictions_plot.png)
 
 
 
 ## Model Performance Monitoring
 Here we can see a comparison between our predictions and the actual values.
-![Hindcast](../img/solana_predictions_plot.png)
+![Hindcast](./../img/solana_predictions_plot.png)
 
 
 
