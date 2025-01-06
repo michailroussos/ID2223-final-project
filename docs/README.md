@@ -1,7 +1,7 @@
 
 # Solana Price Prediction Dashboard
 
-![test](./test.png)
+![test](./../test.png)
 
 
 ## Solana Price Predictions
