@@ -1,9 +1,6 @@
 
 # Solana Price Prediction Dashboard
 
-![test](./test.png)
-
-
 ## Solana Price Predictions
 Here we can see the price predictions for Solana from our model.
 ![Price_predictions](./solana_predictions_plot.png)
